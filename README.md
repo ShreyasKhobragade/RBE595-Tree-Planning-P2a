@@ -59,9 +59,18 @@ python run_sim.py
 
 ### Outputs
 - **Result Output:** Outputs 3D visualizations generated utilizing Matplotlib.
-- **Assets:** Included `.mp4` video renderings of the successful simulations navigating the blocked environments dynamically are located in the `assets/` directory.
+- **Assets:** Included `.gif` video renderings of the successful simulations navigating the blocked environments dynamically are located in the `assets/` directory.
+
+### Simulation Footage
+
+<div align="center">
+  <img src="assets/Video1.gif" width="45%" alt="Validation Video 1">
+  <img src="assets/Video2.gif" width="45%" alt="Validation Video 2">
+  <img src="assets/Video4.gif" width="90%" alt="Validation Video 4">
+</div>
 
 ---
+
 
 ## 📁 Repository Structure
 
