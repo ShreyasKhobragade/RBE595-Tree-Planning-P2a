@@ -1,0 +1,4 @@
+# Ignore generated or cached assets
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
